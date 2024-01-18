@@ -1,2 +1,3 @@
-# alx-backend-storage
-This repo is for Backend specialization in alx
+# ALX Backend Storage
+
+Repository for projects pertaining to data storage.
